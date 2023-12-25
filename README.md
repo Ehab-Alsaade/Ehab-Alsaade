@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ehab-Alsaade
-- 👀 I’m interested in Competitive Programming and Backend Development using Node.js
-- 🌱 I’m currently learning C/C++, Javascript  
+- 👀 I’m interested in Competitive Programming and Graphics programming.
+- 🌱 I’m currently learning C/C++, Java, prolog.
 
 <!---
 Ehab-Alsaade/Ehab-Alsaade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
